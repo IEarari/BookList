@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Book Listing App</string>
+    <string name="search_field_label">Search for books</string>
+    <string name="search_max_results_spinner_label">Max Results</string>
+
+    <string name="no_connection_message">No connection</string>
+    <string name="no_connection_icon_description">A disabled Wi-fi signal</string>
+
+    <string name="empty_results_message">Nothing found</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+
+    <string-array name="max_results">
+        <item>7</item>
+    </string-array>
+
+</resources>
